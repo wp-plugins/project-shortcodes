@@ -39,4 +39,6 @@ None so far :) Feel free to contact me at hallgeir.lien@gmail.com if you have an
 
 == Screenshots ==
 
+1. Two projects, one with a screenshot and one without. Notice the support for both a direct download link, and repository links (e.g. for github or svn repos). 
+
 == Upgrade Notice ==
